@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Subcategory,Price,Cost
+1001,Product 1,Clothing,C,99.09,185.15
+1002,Product 2,Electronics,C,99.87,315.14
+1003,Product 3,Clothing,A,159.08,83.87
+1004,Product 4,Clothing,C,267.13,208.12
+1005,Product 5,Electronics,B,221.65,239.0
+1006,Product 6,Electronics,A,152.7,23.35
+1007,Product 7,Clothing,B,309.81,244.98
+1008,Product 8,Home,B,78.35,72.36
+1009,Product 9,Clothing,B,153.15,30.7
+1010,Product 10,Clothing,B,189.52,379.81
